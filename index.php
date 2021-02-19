@@ -5,6 +5,6 @@
     echo "Local file to be used : ".$localFile;
     include $localFile;
     echo "<br></br>";
-    echo "<p>My discord : Nxstro'S#6666 </p>";
+    echo "<p>My discord : 0xSword#1337 </p>";
 
 ?>
